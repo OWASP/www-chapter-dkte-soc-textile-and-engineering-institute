@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sandipkumar C. Sagare](mailto:sandipkumar.sagare@owasp.org)
+* [Pramod Sargar](mailto:pramod.sargar@owasp.org)
+* [Anubhav Singh](mailto:anubhav.singh@owasp.org)
