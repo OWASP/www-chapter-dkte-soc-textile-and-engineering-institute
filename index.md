@@ -6,9 +6,10 @@ tags: OWASP-dkte
 region: Asia
 meetup-group: owasp-dkte-societys-textile-and-engineering-institute/
 country: India
+postal-code: 416115
+
 ---
 
-<div style='color:red;'>
 
 ![image](https://user-images.githubusercontent.com/65735854/124172974-196fbe00-dac8-11eb-9558-4e77aeb7f99f.png)
 
