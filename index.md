@@ -6,9 +6,10 @@ tags: OWASP-dkte
 region: Asia
 meetup-group: owasp-dkte-societys-textile-and-engineering-institute/
 country: India
+postal-code: 416115
+
 ---
 
-<div style='color:red;'>
 
 ![image](https://user-images.githubusercontent.com/65735854/124172974-196fbe00-dac8-11eb-9558-4e77aeb7f99f.png)
 
@@ -26,8 +27,8 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event 
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
-
-<!--   You should delete this comment
+<!--
+  You should delete this comment
 
 Standard Chapter Page Template
 This is an example of a Project or Chapter page.
@@ -67,5 +68,4 @@ This separate file is where you should place links to your Google Group and Meet
 {leaders.md}
 
 Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
- -->
-
+-->
