@@ -2,9 +2,9 @@
 
 layout: col-sidebar
 title: OWASP DKTE SOC Textile and Engineering Institute
-tags: example-tag
+tags: OWASP-dkte
 region: Asia
-meetup-group:
+meetup-group: owasp-dkte-societys-textile-and-engineering-institute/
 
 ---
 
