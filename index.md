@@ -35,3 +35,5 @@ Next Meeting/Event
 -The meets are free for anyone to attend. There are absolutely no fees. Just come with an open mind and a willingness to share and learn.
 
 Stay Tuned for new updates..
+
+{% include chapter_events.html group=page.meetup-group %} 
