@@ -4,5 +4,5 @@
 
 ### Social Links
 * [Meetup](https://www.meetup.com/owasp-dkte-societys-textile-and-engineering-institute/)
-
-
+* [Twitter](https://twitter.com/owaspdkte)
+* [Instagram](https://www.instagram.com/owaspdkte/)
