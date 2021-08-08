@@ -10,15 +10,11 @@ postal-code: 416115
 
 ---
 
-
-![final banner](https://user-images.githubusercontent.com/65735854/128624462-3bd81869-c0ad-4590-8c4f-4bd582c752cc.png)
-
-
 ## Welcome
 Welcome to OWASP DKTE Chapter.The chapter leaders are <a href="mailto:pramod.sargar@owasp.org">Pramod Sargar</a>, <a href="mailto:anubhav.singh@owasp.org">Anubhav Singh</a> and <a href="mailto:sandipkumar.sagare@owasp.org">Sandipkumar Sagare</a>.The Chapter's vision is to spread awareness about the Application Security among not just the students of DKTE but beyond that too. It will conduct meets every now and then about the trends in the security community.
 
 
-<img src="assets/images/Banner.png" style="width: auto; height: auto;" alt="OWASP DKTE"/>
+<img src="assets/images/banner.png" style="width: auto; height: auto;" alt="OWASP DKTE"/>
 
 
 
