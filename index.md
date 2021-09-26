@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP DKTE SOC Textile and Engineering Institute - Student Chapter
-tags: OWASP-dkte
+tags: OWASP-Dkte
 region: Asia
 meetup-group: owasp-dkte-societys-textile-and-engineering-institute/
 country: India
